@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Box matches snapshot 1`] = `
+<div
+  className="Box"
+>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  >
+    AddTick
+  </button>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+</div>
+`;
